@@ -22,57 +22,75 @@ https://github.com/ahsenbilal19/ai-study-hub
 
 # 📸 Screenshots
 
-## Home
+## 🏠 Home
 
-![Home](public/screenshots/home.png)
-
----
-
-## Dashboard
-
-![Dashboard](public/screenshots/dashboard.png)
+<p align="center">
+  <img src="public/screenshots/home.png" width="900" alt="Home Page"/>
+</p>
 
 ---
 
-## Study Plans
+## 📊 Dashboard
 
-![Study](public/screenshots/study.png)
-
----
-
-## Notes
-
-![Notes](public/screenshots/notes.png)
+<p align="center">
+  <img src="public/screenshots/dashboard.png" width="900" alt="Dashboard"/>
+</p>
 
 ---
 
-## Flashcards
+## 📅 Study Plans
 
-![Flashcards](public/screenshots/flashcards.png)
-
----
-
-## Quiz
-
-![Quiz](public/screenshots/quizzes.png)
+<p align="center">
+  <img src="public/screenshots/study.png" width="900" alt="Study Plans"/>
+</p>
 
 ---
 
-## AI Assistant
+## 📝 Notes
 
-![AI Assistant](public/screenshots/ai-assistant.png)
-
----
-
-## Profile
-
-![Profile](public/screenshots/profile.png)
+<p align="center">
+  <img src="public/screenshots/notes.png" width="900" alt="Notes"/>
+</p>
 
 ---
 
-## Health Check
+## 🧠 Flashcards
 
-![Health](public/screenshots/health.png)
+<p align="center">
+  <img src="public/screenshots/flashcards.png" width="900" alt="Flashcards"/>
+</p>
+
+---
+
+## ❓ Quiz
+
+<p align="center">
+  <img src="public/screenshots/quizzes.png" width="900" alt="Quiz"/>
+</p>
+
+---
+
+## 🤖 AI Assistant
+
+<p align="center">
+  <img src="public/screenshots/ai-assistant.png" width="900" alt="AI Assistant"/>
+</p>
+
+---
+
+## 👤 Profile
+
+<p align="center">
+  <img src="public/screenshots/profile.png" width="900" alt="Profile"/>
+</p>
+
+---
+
+## ❤️ Health Check
+
+<p align="center">
+  <img src="public/screenshots/health.png" width="900" alt="Health Check"/>
+</p>
 
 ---
 

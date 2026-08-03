@@ -15,9 +15,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI Study Hub",
+  title: {
+    default: "AI Study Hub",
+    template: "%s | AI Study Hub",
+  },
   description:
-    "An AI-powered learning platform for study planning, notes, flashcards, quizzes and personalized learning.",
+    "AI-powered study platform for planning, notes, flashcards, quizzes and personalized learning.",
 };
 
 export default function RootLayout({

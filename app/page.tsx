@@ -61,7 +61,7 @@ export default function Home() {
               href="/study"
               className="rounded-xl border border-white px-7 py-3 font-semibold transition hover:bg-white hover:text-blue-700"
             >
-              Explore Features
+              Explore Modules
             </Link>
           </div>
         </div>
