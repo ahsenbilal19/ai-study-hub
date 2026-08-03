@@ -25,7 +25,7 @@ https://github.com/ahsenbilal19/ai-study-hub
 ## 🏠 Home
 
 <p align="center">
-  <img src="public/screenshots/home.png" width="900" alt="Home Page"/>
+  <img src="public/screenshots/home.png" width="800" alt="Home Page"/>
 </p>
 
 ---
@@ -33,7 +33,7 @@ https://github.com/ahsenbilal19/ai-study-hub
 ## 📊 Dashboard
 
 <p align="center">
-  <img src="public/screenshots/dashboard.png" width="900" alt="Dashboard"/>
+  <img src="public/screenshots/dashboard.png" width="800" alt="Dashboard"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@ https://github.com/ahsenbilal19/ai-study-hub
 ## 📅 Study Plans
 
 <p align="center">
-  <img src="public/screenshots/study.png" width="900" alt="Study Plans"/>
+  <img src="public/screenshots/study.png" width="800" alt="Study Plans"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@ https://github.com/ahsenbilal19/ai-study-hub
 ## 📝 Notes
 
 <p align="center">
-  <img src="public/screenshots/notes.png" width="900" alt="Notes"/>
+  <img src="public/screenshots/notes.png" width="800" alt="Notes"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@ https://github.com/ahsenbilal19/ai-study-hub
 ## 🧠 Flashcards
 
 <p align="center">
-  <img src="public/screenshots/flashcards.png" width="900" alt="Flashcards"/>
+  <img src="public/screenshots/flashcards.png" width="800" alt="Flashcards"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ https://github.com/ahsenbilal19/ai-study-hub
 ## ❓ Quiz
 
 <p align="center">
-  <img src="public/screenshots/quizzes.png" width="900" alt="Quiz"/>
+  <img src="public/screenshots/quizzes.png" width="800" alt="Quiz"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@ https://github.com/ahsenbilal19/ai-study-hub
 ## 🤖 AI Assistant
 
 <p align="center">
-  <img src="public/screenshots/ai-assistant.png" width="900" alt="AI Assistant"/>
+  <img src="public/screenshots/ai-assistant.png" width="800" alt="AI Assistant"/>
 </p>
 
 ---
@@ -81,7 +81,7 @@ https://github.com/ahsenbilal19/ai-study-hub
 ## 👤 Profile
 
 <p align="center">
-  <img src="public/screenshots/profile.png" width="900" alt="Profile"/>
+  <img src="public/screenshots/profile.png" width="800" alt="Profile"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@ https://github.com/ahsenbilal19/ai-study-hub
 ## ❤️ Health Check
 
 <p align="center">
-  <img src="public/screenshots/health.png" width="900" alt="Health Check"/>
+  <img src="public/screenshots/health.png" width="800" alt="Health Check"/>
 </p>
 
 ---
