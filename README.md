@@ -1,36 +1,199 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📚 AI Study Hub
 
-## Getting Started
+An AI-powered study platform built with **Next.js 16**, **React 19**, **TypeScript**, and **Tailwind CSS**.
 
-First, run the development server:
+The project serves as the foundation of a modern learning platform where students can organize study materials, generate AI-powered notes, create flashcards, take quizzes, and track their learning progress.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+This project was developed as part of the **Frontend AI Engineering Capstone (FE-04)**.
+
+---
+
+# 🚀 Live Demo
+
+https://ai-study-hub-drab.vercel.app
+
+---
+
+# 📂 GitHub Repository
+
+https://github.com/ahsenbilal19/ai-study-hub
+
+---
+
+# 📸 Screenshots
+
+## Home
+
+![Home](screenshots/home.png)
+
+---
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Study Plans
+
+![Study](screenshots/study.png)
+
+---
+
+## Notes
+
+![Notes](screenshots/notes.png)
+
+---
+
+## Flashcards
+
+![Flashcards](screenshots/flashcards.png)
+
+---
+
+## Quiz
+
+![Quiz](screenshots/quizzes.png)
+
+---
+
+## AI Assistant
+
+![AI Assistant](screenshots/ai-assistant.png)
+
+---
+
+## Profile
+
+![Profile](screenshots/profile.png)
+
+---
+
+## Health Check
+
+![Health](screenshots/health.png)
+
+---
+
+# ✨ Features
+
+- Responsive modern UI
+- Next.js App Router
+- Server Components by default
+- Client Components for interactivity
+- AI Study Dashboard
+- Study Plans page
+- Notes page
+- Flashcards page
+- Quiz page
+- AI Assistant page
+- Profile page
+- Health Check page
+- Responsive navigation
+- Clean project architecture
+- Tailwind CSS styling
+- TypeScript support
+- Ready for future AI integrations
+
+---
+
+# 🛠 Tech Stack
+
+- Next.js 16
+- React 19
+- TypeScript
+- Tailwind CSS v4
+- App Router
+- Vercel
+
+---
+
+# 📁 Project Structure
+
+```
+app/
+│
+├── dashboard/
+├── study/
+├── notes/
+├── flashcards/
+├── quiz/
+├── ai-assistant/
+├── profile/
+├── health/
+│
+components/
+│
+public/
+│
+screenshots/
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# ⚙️ Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+git clone https://github.com/ahsenbilal19/ai-study-hub.git
 
-## Learn More
+cd ai-study-hub
 
-To learn more about Next.js, take a look at the following resources:
+npm install
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+# 📱 Responsive Design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The application has been designed for:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Mobile (375px)
+- Tablet
+- Desktop (1280px+)
+
+---
+
+# 🚀 Deployment
+
+The application is deployed using **Vercel** with automatic deployments on every push to the `main` branch.
+
+---
+
+# 🎯 Learning Outcomes
+
+- Next.js App Router
+- Server Components
+- Client Components
+- File-based Routing
+- Component Architecture
+- Responsive Design
+- Tailwind CSS
+- TypeScript
+- Modern UI Design
+- Deployment with Vercel
+
+---
+
+# 🔮 Future Improvements
+
+- AI Study Planner
+- AI Quiz Generator
+- AI Flashcard Generator
+- Authentication
+- Database Integration
+- User Progress Tracking
+- Dark Mode
+- AI Note Summarization
+
+---
+
+# 👨‍💻 Developer
+
+**Ahsen Bilal**
+
+Frontend AI Engineering Intern @ FlyRank AI
+
+Built with ❤️ using Next.js & Tailwind CSS.
