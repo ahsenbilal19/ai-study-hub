@@ -4,7 +4,7 @@ export default function DashboardPage() {
 
       {/* Hero */}
 
-      <section className="rounded-3xl bg-gradient-to-r from-blue-600 to-indigo-600 p-8 text-white shadow-lg">
+      <section className="rounded-3xl bg-linear-to-r from-blue-600 to-indigo-600 p-8 text-white shadow-lg">
         <p className="text-sm uppercase tracking-widest opacity-80">
           Welcome Back 👋
         </p>
