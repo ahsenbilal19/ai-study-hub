@@ -24,55 +24,55 @@ https://github.com/ahsenbilal19/ai-study-hub
 
 ## Home
 
-![Home](screenshots/home.png)
+![Home](public/screenshots/home.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](public/screenshots/dashboard.png)
 
 ---
 
 ## Study Plans
 
-![Study](screenshots/study.png)
+![Study](public/screenshots/study.png)
 
 ---
 
 ## Notes
 
-![Notes](screenshots/notes.png)
+![Notes](public/screenshots/notes.png)
 
 ---
 
 ## Flashcards
 
-![Flashcards](screenshots/flashcards.png)
+![Flashcards](public/screenshots/flashcards.png)
 
 ---
 
 ## Quiz
 
-![Quiz](screenshots/quizzes.png)
+![Quiz](public/screenshots/quizzes.png)
 
 ---
 
 ## AI Assistant
 
-![AI Assistant](screenshots/ai-assistant.png)
+![AI Assistant](public/screenshots/ai-assistant.png)
 
 ---
 
 ## Profile
 
-![Profile](screenshots/profile.png)
+![Profile](public/screenshots/profile.png)
 
 ---
 
 ## Health Check
 
-![Health](screenshots/health.png)
+![Health](public/screenshots/health.png)
 
 ---
 
